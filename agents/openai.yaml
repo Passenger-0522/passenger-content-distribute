@@ -1,0 +1,4 @@
+interface:
+  display_name: "内容分发编排"
+  short_description: "同轮安排微信与 X 封面，串联草稿顺序与小红书素材改写验收"
+  default_prompt: "使用 $content-distribute 分发这篇长文：封面风格 auto，先推公众号草稿，再创建带独立封面的 X 文章草稿。"
